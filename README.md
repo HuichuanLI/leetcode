@@ -41,26 +41,26 @@ Please feel free to contact me if you have any questions with this repo:)
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [无] | | |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | | |
-| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>[缺：完整BM算法, 其他模式匹配算法] | | |
+| 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>   | |
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | | |
 | 034 | [Search for a Range](https://leetcode.com/problems/search-for-a-range/description/) | [solution](https://leetcode.com/problems/search-for-a-range/solution/) | | |
 | | | | | | |
 | 036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [solution](https://leetcode.com/problems/valid-sudoku/solution/) | | |
-| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [solution](https://leetcode.com/problems/sudoku-solver/)<br/>[缺：Dancing Links] | | |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [solution](https://leetcode.com/problems/sudoku-solver/)<br/>   | |
 | 038 | [Count and Say](https://leetcode.com/problems/count-and-say/description/) | [无] | | |
 | 039 | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [无] | | |
 | 040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [无] | | |
 | 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](https://leetcode.com/problems/first-missing-positive/solution/) | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | | |
 | | | | | | |
-| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] |  | |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>    | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | | |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution](https://leetcode.com/problems/rotate-image/) | | |
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | | |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | | |
-| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] |  | |
-| 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | | |
+| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) |     | |
+| 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>   | |
 | | | | | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | | |
 | | | | | | |
@@ -69,7 +69,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | | |
 | | | | | | |
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | | |
-| 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | | |
+| 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>   | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | | |
 | 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) |  |  |
 | | | | | | |
@@ -129,7 +129,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | | | |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [solution](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [无] | | |
-| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [无]<br/>[缺：双端搜索] | | |
+| 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [无]<br/>   | |
 | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [solution](https://leetcode.com/problems/word-ladder/solution/) |  | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | | |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [无] | | |
@@ -137,7 +137,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/description/) | [无] | | |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [solution](https://leetcode.com/problems/gas-station/solution/) | | |
-| 135 | [Candy](https://leetcode.com/problems/candy/) | [solution](https://leetcode.com/problems/candy/solution/)<br/>[缺：O(1)空间算法] | | |
+| 135 | [Candy](https://leetcode.com/problems/candy/) | [solution](https://leetcode.com/problems/candy/solution/)<br/>   | |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/description/) | [solution](https://leetcode.com/problems/single-number/solution/) | | |
 | | | | | | |
 | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [solution](https://leetcode.com/problems/copy-list-with-random-pointer/solution/) | | |
@@ -147,7 +147,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  | |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) |  | |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [solution](https://leetcode.com/problems/lru-cache/solution/)<br/>[缺：封装一个Double Linked List] | | |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [solution](https://leetcode.com/problems/lru-cache/solution/)<br/>   | |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [无] | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | | |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/) | [solution](https://leetcode.com/problems/max-points-on-a-line/solution/) | | |
@@ -168,7 +168,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [无] | | |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/description/) | [无] | | |
 | | | | | | |
-| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [无]<br/>[缺：Morris遍历] | | |
+| 173 | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/) | [无]<br/>   | |
 | | | | | | |
 | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/description/) | [无] | | |
 | | | | | | |
@@ -208,13 +208,13 @@ Please feel free to contact me if you have any questions with this repo:)
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) |  |  |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [无] | | |
 | | | | | | |
-| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | | |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>   | |
 | | | | | | |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | | |
 | | | | | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | | |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/) |  | |
-| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>[缺：非递归解法；LCA问题总结] | | |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>   | |
 | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) |  | |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](https://leetcode.com/problems/product-of-array-except-self/solution/) | | |  |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [solution](https://leetcode.com/problems/sliding-window-maximum/solution/) | | |
@@ -251,11 +251,11 @@ Please feel free to contact me if you have any questions with this repo:)
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | | |
 | | | | | | |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) |  | |
-| 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>[缺：DP+构建] | | |
+| 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>   | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | | |
 | | | | | | |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) | [缺：BIT] | | |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/description/) |    | |
 | 308 | [Range Sum Query 2D - Mutable](https://leetcode.com/problems/range-sum-query-2d-mutable/description/) | | | |
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | | | |
 | | | | | | |
@@ -303,7 +303,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | | |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | | |
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | | |
-| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) | [缺：矩形求交] | | |
+| 391 | [Perfect Rectangle](https://leetcode.com/problems/perfect-rectangle/description/) |    | |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [无] | | |
 | 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [solution](https://leetcode.com/problems/utf-8-validation/solution/) | | |
 | 394 | [Decode String](https://leetcode.com/problems/decode-string/description/) | [无] | | |
@@ -402,9 +402,9 @@ Please feel free to contact me if you have any questions with this repo:)
 | 652 | [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) | [solution](https://leetcode.com/problems/find-duplicate-subtrees/solution/) | | |
 | | | | | | |
 | 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/description/) | [solution](https://leetcode.com/problems/bulb-switcher-ii/solution/) | | |
-| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) | [缺：BIT；线段树] | | |
+| 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/) |    | |
 | 674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/) | | | |
-| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) | [缺：A*；Hadlock's Algo] | | |
+| 675 | [Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/description/) |    | |
 | 676 | [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/) | [solution](https://leetcode.com/problems/implement-magic-dictionary/solution/) | | |
 | 677 | [Map Sum Pairs](https://leetcode.com/problems/map-sum-pairs/description/) | [solution](https://leetcode.com/problems/map-sum-pairs/solution/) | | |
 | | | | | | |
@@ -420,7 +420,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | | |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | | | |
 | 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | |  | |
-| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | | |
+| 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) |    | |
 | | | | | | |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | | |
 | | | | | | |
@@ -435,11 +435,11 @@ Please feel free to contact me if you have any questions with this repo:)
 | 712 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/) | | | |
 | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | | | |
 | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/) | | | |
-| 715 | [Range Module](https://leetcode.com/problems/range-module/description/) | [缺：set查找] | | |
+| 715 | [Range Module](https://leetcode.com/problems/range-module/description/) |    | |
 | 716 | [Max Stack](https://leetcode.com/problems/max-stack/description/) | [solution](https://leetcode.com/problems/max-stack/solution/) | | |
 | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/) | | | |
-| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) | [缺：Rolling Hash] | | |
-| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) | [缺：二分搜索] | | |
+| 718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/description/) |    | |
+| 719 | [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/) |    | |
 | 720 | [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/) | [solution](https://leetcode.com/problems/longest-word-in-dictionary/solution/) | | |
 | 721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge/description/) | [solution](https://leetcode.com/problems/accounts-merge/solution/) | | |
 | 722 | [Remove Comments](https://leetcode.com/problems/remove-comments/description/) | [solution](https://leetcode.com/problems/remove-comments/solution/) | | |
@@ -461,7 +461,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/) | [solution](https://leetcode.com/problems/daily-temperatures/solution/) | | |
 | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) | [solution](https://leetcode.com/problems/delete-and-earn/solution/) | | |
-| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>[缺：自底向上的动态规划] | | |
+| 741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup/description/) | [solution](https://leetcode.com/problems/cherry-pickup/solution/)<br/>   | |
 | | | | | | |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [solution](https://leetcode.com/problems/min-cost-climbing-stairs/solution/) | | |
 | 747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [solution](https://leetcode.com/problems/largest-number-at-least-twice-of-others/solution/) | | |
@@ -480,17 +480,17 @@ Please feel free to contact me if you have any questions with this repo:)
 | 783 | [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/description/) | [solution](https://leetcode.com/problems/minimum-distance-between-bst-nodes/solution/) | | |
 | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [solution](https://leetcode.com/problems/letter-case-permutation/solution/) | | |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/description/) | [solution](https://leetcode.com/problems/is-graph-bipartite/description/) | | |
-| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | [solution](https://leetcode.com/problems/k-th-smallest-prime-fraction/solution/)<br/>[缺：分治算法] | | |
-| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solution/)<br/>[缺：使用Heap] | | |
+| 786 | [K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/) | [solution](https://leetcode.com/problems/k-th-smallest-prime-fraction/solution/)<br/>   | |
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/) | [solution](https://leetcode.com/problems/cheapest-flights-within-k-stops/solution/)<br/>   | |
 | 788 | [Rotated Digits](https://leetcode.com/problems/rotated-digits/description/) | [solution](https://leetcode.com/problems/rotated-digits/solution/) | | |
 | 789 | [Escape The Ghosts](https://leetcode.com/problems/escape-the-ghosts/description/) | [solution](https://leetcode.com/problems/escape-the-ghosts/solution/) | | |
-| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [solution](https://leetcode.com/problems/domino-and-tromino-tiling/solution/)<br/>[缺：转移矩阵求幂解法] | | |
+| 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/description/) | [solution](https://leetcode.com/problems/domino-and-tromino-tiling/solution/)<br/>   | |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [solution](https://leetcode.com/problems/custom-sort-string/solution/) | | |
 | 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/description/) | [solution](https://leetcode.com/problems/number-of-matching-subsequences/solution/) | | |
 | 793 | [Preimage Size of Factorial Zeroes Function](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/description/) | [solution](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/solution/) | | |
 | 794 | [Valid Tic-Tac-Toe State](https://leetcode.com/problems/valid-tic-tac-toe-state/description/) | [solution](https://leetcode.com/problems/valid-tic-tac-toe-state/solution/) | | |
 | 795 | [Number of Subarrays with Bounded Maximum](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/description/) | [solution](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/solution/) | | |
-| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>[缺：Rolling Hash] | | |
+| 796 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [solution](https://leetcode.com/problems/rotate-string/solution/)<br/>   | |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/) | [solution](https://leetcode.com/problems/all-paths-from-source-to-target/solution/) | | |
 | | | | | | |
 | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/description/) | [solution](https://leetcode.com/problems/champagne-tower/solution/) | | |
@@ -516,14 +516,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 854 | [K-Similar Strings](https://leetcode.com/problems/k-similar-strings/description/) | [solution](https://leetcode.com/problems/k-similar-strings/solution/) | | |
 | 855 | [Exam Room](https://leetcode.com/problems/exam-room/description/) | [solution](https://leetcode.com/problems/exam-room/solution/) | | |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/description/) | [solution](https://leetcode.com/problems/score-of-parentheses/solution/) | | |
-| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solution/)<br/>[缺：二分搜索] | | |
+| 857 | [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/) | [solution](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/solution/)<br/>   | |
 | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [solution](https://leetcode.com/problems/mirror-reflection/solution/) | | |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [solution](https://leetcode.com/problems/buddy-strings/solution/) | | |
 | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/description/) | [solution](https://leetcode.com/problems/lemonade-change/solution/) | | |
 | 861 | [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix/description/) | [solution](https://leetcode.com/problems/score-after-flipping-matrix/solution/) | | |
 | | | | | | |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/description/) | [solution](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/solution/) | | |
-| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [solution](https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/)<br/>[缺：Dijkstra] | | |
+| 864 | [Shortest Path to Get All Keys](https://leetcode.com/problems/shortest-path-to-get-all-keys/description/) | [solution](https://leetcode.com/problems/shortest-path-to-get-all-keys/solution/)<br/>   | |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/description/) | [solution](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/solution/) | | |
 | 866 | [Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/) | [solution](https://leetcode.com/problems/prime-palindrome/solution/) | | |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/) | [solution](https://leetcode.com/problems/transpose-matrix/solution/) | | |
@@ -562,7 +562,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 900 | [RLE Iterator](https://leetcode.com/problems/rle-iterator/description/) | [solution](https://leetcode.com/problems/rle-iterator/solution/) | | |
 | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/) | [solution](https://leetcode.com/problems/online-stock-span/solution/) | | |
 | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/description/) | [solution](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/solution/) | | |
-| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | [solution](https://leetcode.com/problems/valid-permutations-for-di-sequence/solution/)<br/>[缺：O(n^2) DP] | | |
+| 903 | [Valid Permutations for DI Sequence](https://leetcode.com/problems/valid-permutations-for-di-sequence/description/) | [solution](https://leetcode.com/problems/valid-permutations-for-di-sequence/solution/)<br/>   | |
 | 904 | [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [solution](https://leetcode.com/problems/fruit-into-baskets/solution/) | | |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity/solution/) | | |
 | 906 | [Super Palindromes](https://leetcode.com/problems/super-palindromes/description/) | [solution](https://leetcode.com/problems/super-palindromes/solution/) | | |
@@ -572,14 +572,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/description/) | [solution](https://leetcode.com/problems/smallest-range-ii/solution/) | | |
 | 911 | [Online Election](https://leetcode.com/problems/online-election/description/) | [solution](https://leetcode.com/problems/online-election/solution/) | | |
 | | | | | | |
-| 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | [solution](https://leetcode.com/problems/cat-and-mouse/solution/)<br/>[缺：DFS拓扑排序；DP] | | |
+| 913 | [Cat and Mouse Game](https://leetcode.com/problems/cat-and-mouse/) | [solution](https://leetcode.com/problems/cat-and-mouse/solution/)<br/>   | |
 | 914 | [X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/) | [solution](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/solution/) | | |
 | 915 | [Partition Array into Disjoint Intervals](https://leetcode.com/problems/partition-array-into-disjoint-intervals/description/) | [solution](https://leetcode.com/problems/partition-array-into-disjoint-intervals/solution/) | | |
 | 916 | [Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [solution](https://leetcode.com/problems/word-subsets/solution/) | | |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/description/) | [solution](https://leetcode.com/problems/reverse-only-letters/solution/) | | |
 | 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/description/) | [solution](https://leetcode.com/problems/maximum-sum-circular-subarray/solution/) | | |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/description/) | [solution](https://leetcode.com/problems/complete-binary-tree-inserter/solution/) | | |
-| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | [solution](https://leetcode.com/problems/number-of-music-playlists/solution/)<br/>[缺：生成函数] | | |
+| 920 | [Number of Music Playlists](https://leetcode.com/problems/number-of-music-playlists/description/) | [solution](https://leetcode.com/problems/number-of-music-playlists/solution/)<br/>   | |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/) | [solution](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/solution/) | | |
 | 922 | [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/description/) | [solution](https://leetcode.com/problems/sort-array-by-parity-ii/solution/) | | |
 | 923 | [3Sum With Multiplicity](https://leetcode.com/problems/3sum-with-multiplicity/description/) | [solution](https://leetcode.com/problems/3sum-with-multiplicity/solution/) | | |
@@ -602,7 +602,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | [solution](https://leetcode.com/problems/distinct-subsequences-ii/solution/) | | |
 | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [solution](https://leetcode.com/problems/valid-mountain-array/solution/) | | |
 | 942 | [DI String Match](https://leetcode.com/problems/di-string-match/) | [solution](https://leetcode.com/problems/di-string-match/solution/) | | |
-| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [solution](https://leetcode.com/problems/find-the-shortest-superstring/solution/)<br/>[缺：动态规划] | | |
+| 943 | [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) | [solution](https://leetcode.com/problems/find-the-shortest-superstring/solution/)<br/>   | |
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [solution](https://leetcode.com/problems/delete-columns-to-make-sorted/solution/) | | |
 | 945 | [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/) | [solution](https://leetcode.com/problems/minimum-increment-to-make-array-unique/solution/) | | |
 | 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | [solution](https://leetcode.com/problems/validate-stack-sequences/solution/) | | |
@@ -637,7 +637,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [solution](https://leetcode.com/problems/squares-of-a-sorted-array/solution/) | | |
 | 978 | [Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [solution](https://leetcode.com/problems/longest-turbulent-subarray/solution/) | | |
 | 979 | [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | [solution](https://leetcode.com/problems/distribute-coins-in-binary-tree/solution/) | | |
-| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [solution](https://leetcode.com/problems/unique-paths-iii/solution/)<br/>[缺：记忆化搜索] | [Java](0980-Unique-Paths-III/java-0980/)| |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [solution](https://leetcode.com/problems/unique-paths-iii/solution/)<br/>   [Java](0980-Unique-Paths-III/java-0980/)| |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | [solution](https://leetcode.com/problems/time-based-key-value-store/solution/) | | |
 | 982 | [Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | [无] | | |
 | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [solution](https://leetcode.com/problems/minimum-cost-for-tickets/solution/) | | |
@@ -701,7 +701,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [无] | | |
 | 1042 | [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [无] | | |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [无] | | |
-| 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>[缺：后缀数组] | | |
+| 1044 | [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/) | [无]<br/>   | |
 | | | | | | |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | [无] | | |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [无] | | |
@@ -719,16 +719,16 @@ Please feel free to contact me if you have any questions with this repo:)
 | 1093 | [Statistics from a Large Sample](https://leetcode.com/problems/statistics-from-a-large-sample/) | [无] | | |
 | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [无] | | |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [无] | | |
-| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [无]<br/>[缺：非递归算法] | | |
+| 1096 | [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) | [无]<br/>   | |
 | | | | | | |
 | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) | [无] | | |
 | 1100 | [Find K-Length Substrings With No Repeated Characters](https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/) | [无] | | |
 | 1101 | [The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/) | [无] | | |
-| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [无]<br/>[缺：并查集] | | |
+| 1102 | [Path With Maximum Minimum Value](https://leetcode.com/problems/path-with-maximum-minimum-value/) | [无]<br/>   | |
 | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [solution](https://leetcode.com/problems/distribute-candies-to-people/solution/) | | |
 | 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | [无] | | |
 | 1105 | [Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [无] | | |
-| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [无]<br/>[缺：非递归算法] | | |
+| 1106 | [Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [无]<br/>   | |
 | | | | | | |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [无] | | |
 | 1109 | [Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/) | [无] | | |
@@ -750,7 +750,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 1133 | [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/) | [无] | | |
 | 1134 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/) | [无] | | |
 | 1135 | [Connecting Cities With Minimum Cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost/) | [无] | | |
-| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无]<br/>[缺：后序遍历拓扑排序] | | |
+| 1136 | [Parallel Courses](https://leetcode.com/problems/parallel-courses/) | [无]<br/>   | |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [无] | | |
 | 1138 | [Alphabet Board Path](https://leetcode.com/problems/alphabet-board-path/) | [无] | | |
 | 1139 | [Largest 1-Bordered Square](https://leetcode.com/problems/largest-1-bordered-square/) | [无] | | |
@@ -767,7 +767,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 1152 | [Analyze User Website Visit Pattern](https://leetcode.com/problems/analyse-user-website-visit-pattern/) | [无] | | |
 | 1153 | [String Transforms Into Another String](https://leetcode.com/problems/string-transforms-into-another-string/) | [无] | | |
 | 1154 | [Day of the Year](https://leetcode.com/problems/ordinal-number-of-date/) | [无] | | |
-| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [无]<br/>[缺：空间优化] | | |
+| 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | [无]<br/>   | |
 | 1156 | [Swap For Longest Repeated Character Substring](https://leetcode.com/problems/swap-for-maximum-repeated-substring/) | [无] | | |
 | 1157 | [Online Majority Element In Subarray](https://leetcode.com/problems/online-majority-element-in-subarray/) | [无] | | |
 | | | | | | |
