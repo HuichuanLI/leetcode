@@ -21,7 +21,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solution/) | | |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](https://leetcode.com/problems/longest-palindromic-substring/solution/) | | |
 | | | | | | |
-| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | | |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [python](0007-Reverse-Integer/leetcode7.py) | |
 | | | | | | |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [solution](https://leetcode.com/problems/regular-expression-matching/solution/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [solution](https://leetcode.com/problems/container-with-most-water/solution/) | | |
