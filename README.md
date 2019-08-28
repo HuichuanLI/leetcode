@@ -13,11 +13,11 @@ Please feel free to contact me if you have any questions with this repo:)
 
 ## Problems
 
-| ID | Problem | Official<br/>Solution | C++ | Java | Python |
-| --- | --- | :---: | :--- | :--- | :--- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) | [Java](0001-Two-Sum/java-0001/src/) | |
+| ID | Problem | Official<br/>Solution | Java | Python |
+| --- | --- | :---: | :--- | :--- |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) |  | |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution](https://leetcode.com/problems/add-two-numbers/solution/) | | |
-| 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) | [Java](0003-Longest-Substring-Without-Repeating-Characters/java-0003/src/) | |
+| 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |  | |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solution/) | | |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](https://leetcode.com/problems/longest-palindromic-substring/solution/) | | |
 | | | | | | |
@@ -30,14 +30,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | | |
-| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) | [Java](0017-Letter-Combinations-of-a-Phone-Number/java-0017/src/) | |
+| 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) |  | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | | |
-| 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) | [Java](0019-Remove-Nth-Node-From-End-of-List/java-0019/src/) | |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) | [Java](0020-Valid-Parentheses/java-0020/src/) | |
+| 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) |  | |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  | |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | | |
-| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) | [Java](0022-Generate-Parentheses/java-0022/) | [Python](0022-Generate-Parentheses/py-0022/) |
+| 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) |  | [Python](0022-Generate-Parentheses/py-0022/) |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | | |
-| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] | [Java](0024-Swap-Nodes-in-Pairs/java-0024/src/) | |
+| 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] |  | |
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [无] | | |
 | 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | | |
 | 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | | |
@@ -54,12 +54,12 @@ Please feel free to contact me if you have any questions with this repo:)
 | 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [solution](https://leetcode.com/problems/first-missing-positive/solution/) | | |
 | 042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [solution](https://leetcode.com/problems/trapping-rain-water/solution/) | | |
 | | | | | | |
-| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] | [Java](0046-Permutations/java-0046/src/) | |
+| 046 | [Permutations](https://leetcode.com/problems/permutations/description/) | [solution](https://leetcode.com/problems/permutations/solution/)<br/>[缺：排列算法整理] |  | |
 | 047 | [Permutations II](https://leetcode.com/problems/permutations-ii/description/) | [无] | | |
 | 048 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [solution](https://leetcode.com/problems/rotate-image/) | | |
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [solution](https://leetcode.com/problems/group-anagrams/solution/) | | |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [无] | | |
-| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] | [Java](0051-N-Queens/java-0051/src/) | |
+| 051 | [N-Queens](https://leetcode.com/problems/n-queens/description/) | [缺：N皇后问题整理] |  | |
 | 052 | [N-Queens II](https://leetcode.com/problems/n-queens-ii/) | [solution](https://leetcode.com/problems/n-queens-ii/solution/)<br/>[缺：N皇后问题整理] | | |
 | | | | | | |
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | | |
@@ -71,22 +71,22 @@ Please feel free to contact me if you have any questions with this repo:)
 | 061 | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [solution](https://leetcode.com/problems/rotate-list/solution/) | | |
 | 062 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [无]<br/>[缺：数学解] | | |
 | 063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [solution](https://leetcode.com/problems/unique-paths-ii/solution/) | | |
-| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) | [Java](0064-Minimum-Path-Sum/java-0064/src/) | [Python](0064-Minimum-Path-Sum/py-0064/) |
+| 064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [solution](https://leetcode.com/problems/minimum-path-sum/solution/) |  | [Python](0064-Minimum-Path-Sum/py-0064/) |
 | | | | | | |
 | 066 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [无] | | |
 | 067 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [无] | | |
 | | | | | | |
 | 069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)| [无] | | |
-| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) | [Java](0070-Climbing-Stairs/java-0070/src/) | |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [solution](https://leetcode.com/problems/climbing-stairs/solution/) |  | |
 | | | | | | |
 | 072 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [solution](https://leetcode.com/problems/edit-distance/solution/) | | |
 | 073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [solution](https://leetcode.com/problems/set-matrix-zeroes/solution/) | | |
 | 074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [无] | | |
-| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [solution](https://leetcode.com/problems/sort-colors/solution/) | [Java](0075-Sort-Colors/java-0075/src/) | [Python](0075-Sort-Colors/py-0075/) |
+| 075 | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [solution](https://leetcode.com/problems/sort-colors/solution/) |  | [Python](0075-Sort-Colors/py-0075/) |
 | 076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [solution](https://leetcode.com/problems/minimum-window-substring/solution/) | | |
-| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution](https://leetcode.com/problems/combinations/solution/) | [Java](0077-Combinations/java-0077/src/) | |
+| 077 | [Combinations](https://leetcode.com/problems/combinations/description/) | [solution](https://leetcode.com/problems/combinations/solution/) |  | |
 | | | | | | |
-| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] | [Java](0079-Word-Search/java-0079/src/) | |
+| 079 | [Word Search](https://leetcode.com/problems/word-search/description/) | [无] |  | |
 | 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | [无] | | |
 | | | | | | |
 | 082 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [无] | | |
@@ -97,17 +97,17 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 092 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/) | [solution](https://leetcode.com/problems/reverse-linked-list-ii/solution/) | | |
 | 093 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [solution](https://leetcode.com/problems/restore-ip-addresses/solution/) | | |
-| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) | [Java](0094-Binary-Tree-Inorder-Traversal/java-0094/src/) | |
+| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-inorder-traversal/solution/) |  | |
 | 095 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees-ii/solution/) | | |
 | 096 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [solution](https://leetcode.com/problems/unique-binary-search-trees/solution/) | | |
 | | | | | | |
-| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [solution](https://leetcode.com/problems/validate-binary-search-tree/solution/) | [Java](0098-Validate-Binary-Search-Tree/java-0098/src/) | |
-| 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | | [Java](0099-Recover-Binary-Search-Tree/java-0099/src/) | |
+| 098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/) | [solution](https://leetcode.com/problems/validate-binary-search-tree/solution/) |  | |
+| 099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/) | [无] | |  | |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/description/) | [solution](https://leetcode.com/problems/same-tree/solution/) | | |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [solution](https://leetcode.com/problems/symmetric-tree/solution/) | | [Python](0101-Symmetric-Tree/py-0101/) |
-| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/) | [Java](0102-Binary-Tree-Level-Order-Traversal/java-0102/src/) | |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-level-order-traversal/solution/) |  | |
 | | | | | | |
-| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/) | [Java](0104-Maximum-Depth-of-Binary-Tree/java-0104/src/) | |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/solution/) |  | |
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) | [solution](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/solution/) | | |
 | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/) | [无] | | |
 | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [无] | | |
@@ -115,10 +115,10 @@ Please feel free to contact me if you have any questions with this repo:)
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/) | [solution](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/solution/) | | |
 | | | | | | |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/) | [solution](https://leetcode.com/problems/minimum-depth-of-binary-tree/solution/) | | |
-| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) | [Java](0112-Path-Sum/cpp-0112/src/) | |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/description/) | [solution](https://leetcode.com/problems/path-sum/solution/) |  | |
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/description/) | [无] | | |
 | | | | | | |
-| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [无] | [Java](0115/Distinct-Subsequences/java-0115/) | |
+| 115 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/description/) | [无] |  | |
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/) | [无] | | |
 | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [无] | | |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [solution](https://leetcode.com/problems/pascals-triangle/solution/) | | |
@@ -130,7 +130,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [solution](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | | |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [无] | | |
 | 126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/description/) | [无]<br/>[缺：双端搜索] | | |
-| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [solution](https://leetcode.com/problems/word-ladder/solution/) | [Java](0127-Word-Ladder/java-0127/) | |
+| 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [solution](https://leetcode.com/problems/word-ladder/solution/) |  | |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-9consecutive-sequence/description/) | | | |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) | [无] | | |
 | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/) | [无] | | |
@@ -145,8 +145,8 @@ Please feel free to contact me if you have any questions with this repo:)
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [solution](https://leetcode.com/problems/linked-list-cycle/solution/) | | |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [solution](https://leetcode.com/problems/linked-list-cycle-ii/description/) | | |
 | | | | | | |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](0144-Binary-Tree-Preorder-Traversal/java-0144/src/) | |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) | [Java](0145-Binary-Tree-Postorder-Traversal/java-0145/src/) | |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  | |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) | [solution](https://leetcode.com/problems/binary-tree-postorder-traversal/solution/) |  | |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [solution](https://leetcode.com/problems/lru-cache/solution/)<br/>[缺：封装一个Double Linked List] | | |
 | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [无] | | |
 | 148 | [Sort List](https://leetcode.com/problems/sort-list/description/) | [无] | | |
@@ -162,7 +162,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [solution](https://leetcode.com/problems/intersection-of-two-linked-lists/solution/) | | |
 | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [solution](https://leetcode.com/problems/one-edit-distance/solution/) | | |
 | | | | | | |
-| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) | [Java](0167-Two-Sum-II-Input-array-is-sorted/java-0167/src/) | |
+| 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [solution](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solution/) |  | |
 | | | | | | |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [solution](https://leetcode.com/problems/majority-element/solution/) | | [Python](0169-Majority-Element/py-0169/) |
 | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/description/) | [无] | | |
@@ -177,20 +177,20 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [solution](https://leetcode.com/problems/number-of-1-bits/solution/) | | |
 | | | | | | |
-| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) | [Java](0198-House-Robber/java-0198/src/) | |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/description/) | [solution](https://leetcode.com/problems/house-robber/solution/) |  | |
 | | | | | | |
-| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) | [Java](0200-Number-of-Islands/java-0200/src/) | |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/) | [solution](https://leetcode.com/problems/number-of-islands/solution/) |  | |
 | | | | | | |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/) | [无] | | |
-| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [无] | [Java](0203-Remove-Linked-List-Elements/java-0203/src/) | |
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [无] |  | |
 | | | | | | |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [无] | | |
-| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [solution](https://leetcode.com/problems/reverse-linked-list/solution/) | [Java](0206-Reverse-Linked-List/java-0206/src/) | |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [solution](https://leetcode.com/problems/reverse-linked-list/solution/) |  | |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [无] | | |
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | [solution](https://leetcode.com/problems/implement-trie-prefix-tree/solution/) | | |
-| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [solution](https://leetcode.com/problems/minimum-size-subarray-sum/solution/) | [Java](0209-Minimum-Size-Subarray-Sum/java-0209/src/) | |
+| 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/) | [solution](https://leetcode.com/problems/minimum-size-subarray-sum/solution/) |  | |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [solution](https://leetcode.com/problems/course-schedule-ii/solution/) | | |
-| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] | [Java](0211-Add-and-Search-Word-Data-structure-design/java-0211/) | |
+| 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/description/) | [无] |  | |
 | 212 | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [无] | | |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/description/) | [无] | | |
 | | | | | | |
@@ -198,14 +198,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [无] | | |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/) | [无] | | |
 | 218 | [The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/) | | | |
-| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-ii/solution/) | [Java](0219-Contains-Duplicate-II/java-0219/src/) | |
-| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-iii/solution/) | [Java](0220-Contains-Duplicate-III/java-0220/) | |
+| 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-ii/solution/) |  | |
+| 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/description/) | [solution](https://leetcode.com/problems/contains-duplicate-iii/solution/) |  | |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | [solution](https://leetcode.com/problems/maximal-square/solution/) | | | [Python](0221-Maximal-Square/py-0221) |
 | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/) | [无] | | |
 | | | | | | |
 | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/description/) | [无] | | |
 | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/) | [solution](https://leetcode.com/problems/implement-stack-using-queues/solution/) | | |
-| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) | [Java](0226-Invert-Binary-Tree/java-0226/src/) | [Python](0226-Invert-Binary-Tree/py-0226/) |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [solution](https://leetcode.com/problems/invert-binary-tree/solution/) |  | [Python](0226-Invert-Binary-Tree/py-0226/) |
 | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/) | [无] | | |
 | | | | | | |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/) | [solution](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)<br/>[缺：非递归] | | |
@@ -213,9 +213,9 @@ Please feel free to contact me if you have any questions with this repo:)
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) | [solution](https://leetcode.com/problems/implement-queue-using-stacks/solution/) | | |
 | | | | | | |
 | 234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [无] | | |
-| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/) | [Java](0235-Lowest-Common-Ancestor-of-a-Binary-Search-Tree/java-0235/src/) | |
+| 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/solution/) |  | |
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [solution](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/)<br/>[缺：非递归解法；LCA问题总结] | | |
-| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) | [Java](0237-Delete-Node-in-a-Linked-List/java-0237/src/) | |
+| 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [solution](https://leetcode.com/problems/delete-node-in-a-linked-list/solution/) |  | |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [solution](https://leetcode.com/problems/product-of-array-except-self/solution/) | | | [Python](0238-Product-of-Array-Except-Self/py-0238/) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) | [solution](https://leetcode.com/problems/sliding-window-maximum/solution/) | | |
 | | | | | | |
@@ -231,16 +231,16 @@ Please feel free to contact me if you have any questions with this repo:)
 | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/description/) | [solution](https://leetcode.com/problems/meeting-rooms-ii/solution/) | | |
 | 254 | [Factor Combinations](https://leetcode.com/problems/factor-combinations/description/) | [无] | | |
 | | | | | | |
-| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](https://leetcode.com/problems/binary-tree-paths/solution/) | [Java](0257-Binary-Tree-Paths/java-0257/src/) | |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/description/) | [solution](https://leetcode.com/problems/binary-tree-paths/solution/) |  | |
 | | | | | | |
 | 259 | [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/description/) | [solution](https://leetcode.com/problems/3sum-smaller/solution/) | | |
 | | | | | | |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/description/) | [solution](https://leetcode.com/problems/missing-number/solution/) | | |
 | | | | | | |
-| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 | [Java](0279-Perfect-Squares/java-0279/src/) | |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) | [无]<br/>四平方和数学解 |  | |
 | | | | | | |
 | 282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [solution](https://leetcode.com/problems/expression-add-operators/solution/) | | |
-| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) | [Java](0283-Move-Zeroes/java-0283/src/) | |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [solution](https://leetcode.com/problems/move-zeroes/solution/) |  | |
 | | | | | | |
 | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [solution](https://leetcode.com/problems/walls-and-gates/solution/) | | |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | | | |
@@ -250,7 +250,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) | [solution](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/solution/) | | |
 | | | | | | |
-| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) | [Java](0300-Longest-Increasing-Subsequence/java-0300/src/) | |
+| 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/) | [solution](https://leetcode.com/problems/longest-increasing-subsequence/solution/) |  | |
 | 301 | [0301-Remove-Invalid-Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [solution](https://leetcode.com/problems/remove-invalid-parentheses/solution/)<br/>[缺：DP+构建] | | |
 | | | | | | |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/) | | | |
@@ -272,14 +272,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [solution](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/solution/) | | |
 | 341 | [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | [无] | | |
 | | | | | | |
-| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] | [Java](0343-Integer-Break/java-0343/src/) | |
+| 343 | [Integer Break](https://leetcode.com/problems/integer-break/description/) | [无] |  | |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [无] | | |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/) | [无] | | |
 | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/solution/) | [无] | | |
-| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) | [Java](0347-Top-K-Frequent-Elements/java-0347/src/) | |
+| 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [solution](https://leetcode.com/problems/top-k-frequent-elements/solution/) |  | |
 | | | | | | |
-| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) | [Java](0349-Intersection-of-Two-Arrays/java-0349/src/) | |
-| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] | [Java](0350-Intersection-of-Two-Arrays-II/java-0350/src/) | |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/) | [solution](https://leetcode.com/problems/intersection-of-two-arrays/solution/) |  | |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [无] |  | |
 | | | | | | |
 | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/description/) | [无] | | |
 | 360 | [Sort Transformed Array](https://leetcode.com/problems/sort-transformed-array/description/) | [无] | | |
@@ -299,7 +299,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 384 | [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/description/) | [solution](https://leetcode.com/problems/shuffle-an-array/solution/) | | |
 | | | | | | |
 | 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/) | | | |
-| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) | [Java](0387-First-Unique-Character-in-a-String/java-0387/src/) | |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | [solution](https://leetcode.com/problems/first-unique-character-in-a-string/solution/) |  | |
 | 388 | [Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/description/) | | | |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/description/) | | | |
 | 390 | [Elimination Game](https://leetcode.com/problems/elimination-game/description/) | | | |
@@ -314,8 +314,8 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [solution](https://leetcode.com/problems/fizz-buzz/solution/) | | |
 | | | | | | |
-| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] | [Java](0416-Partition-Equal-Subset-Sum/java-0416/src/) | |
-| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | | [Java](0417-Pacific-Atlantic-Water-Flow/java-0417/src/) | |
+| 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [无] |  | |
+| 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/) | [无] | |  | |
 | | | | | | |
 | 423 | [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/) | [solution](https://leetcode.com/problems/reconstruct-original-digits-from-english/solution/) | | |
 | | | | | | |
@@ -325,20 +325,20 @@ Please feel free to contact me if you have any questions with this repo:)
 | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/description/) | [无] | [solution](0430-Flatten-a-Multilevel-Doubly-Linked-List/cpp-0430/) | | |
 | | | | | | |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/) | | | |
-| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [Java](0435-Non-overlapping-Intervals/java-0435/src/) | |
+| 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/description/) | [solution](https://leetcode.com/problems/non-overlapping-intervals/solution/) |  | |
 | | | | | | |
-| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] | [Java](0437-Path-Sum-III/java-0437/src/) | |
+| 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/description/) | [无] |  | |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | [无] | | |
 | | | | | | |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/description/) | | | |
 | | | | | | |
-| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [无] | [Java](0447-Number-of-Boomerangs/java-0447/src/) | |
+| 447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/description/) | [无] |  | |
 | | | | | | |
 | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [solution](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | | |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [无] | | |
 | | | | | | |
-| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] | [Java](0454-4Sum-II/java-0454/src/) | |
-| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] | [Java](0455-Assign-Cookies/java-0455/src/) | |
+| 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/description/) | [无] |  | |
+| 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/description/) | [无] |  | |
 | | | | | | |
 | 458 | [Poor Pigs](https://leetcode.com/problems/poor-pigs/) | [solution](https://leetcode.com/problems/poor-pigs/solution/) | | |
 | | | | | | |
@@ -367,7 +367,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | | | | | | |
 | 528 | [Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/description/) | [solution](https://leetcode.com/problems/random-pick-with-weight/solution/) | | |
 | | | | | | |
-| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | | [Java](0530-Minimum-Absolute-Difference-in-BST/java-0530/src/) | |
+| 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/description/) | [无] | |  | |
 | | | | | | |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/) | [solution](https://leetcode.com/problems/reverse-string-ii/solution/) | | |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/description/) | [solution](https://leetcode.com/problems/01-matrix/solution/) | | |
@@ -419,7 +419,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 695 | [Max-Area-of-Island](https://leetcode.com/problems/max-area-of-island/description/) | | | |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/) | | | |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/description/) | | | |
-| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | | [Java](0698-Partition-to-K-Equal-Sum-Subsets/java-0698/src/) | |
+| 698 | [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/) | |  | |
 | 699 | [Falling Squares](https://leetcode.com/contest/leetcode-weekly-contest-54/problems/falling-squares/) | [缺：线段树；块状链表] | | |
 | | | | | | |
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [solution](https://leetcode.com/problems/insert-into-a-binary-search-tree/solution/) | | |
