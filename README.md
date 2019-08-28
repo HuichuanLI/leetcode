@@ -13,7 +13,7 @@ Please feel free to contact me if you have any questions with this repo:)
 
 ## Problems
 
-| ID | Problem | Official<br/>Solution | Java | Python |
+| ID | Problem | Official<br/>Solution | Python | Java |
 | --- | --- | :---: | :--- | :--- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) |  | |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution](https://leetcode.com/problems/add-two-numbers/solution/) | | |
