@@ -1,17 +1,9 @@
 class Solution:
-    def twoSum(self, nums, target) :
-        a = {}
-        for i in range(len(nums)):
-           a[nums[i]] = i
-        for i in a.keys():
-            if target - i in a.keys():
-                return [a[i],a[target - i]]
-
-
-if __name__ == '__main__':
-    a = [1,2,3,4,5]
-    b = Solution()
-    print(b.twoSum(a,7))
-
-
-
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        lookup = {}
+        for i, num in enumerate(nums):
+            if target - num in lookup:
+                return [lookup[target-num], i]
+            else: # 每一轮都存下当前num和其index到map中
+                lookup[num] = i
+            
