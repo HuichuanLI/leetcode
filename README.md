@@ -33,7 +33,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) |  | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) |  | |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](0020-valid-parentheses/leetcode20.py)| |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](0020-valid-Parentheses/leetcode20.py)| |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | | |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) |  |  |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | | |
