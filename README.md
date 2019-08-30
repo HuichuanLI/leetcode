@@ -26,14 +26,14 @@ Please feel free to contact me if you have any questions with this repo:)
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [solution](https://leetcode.com/problems/regular-expression-matching/solution/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [solution](https://leetcode.com/problems/container-with-most-water/solution/) | | |
 | 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] |  [python](00012-Integer-to-Roman/leetcode12.py)| |
-| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | | |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [python](00012-Roman-to-Integer/leetcode13.py)| |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) |  | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) |  | |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  | |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](0020-valid-parentheses/leetcode20.py)| |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | | |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) |  |  |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | | |
