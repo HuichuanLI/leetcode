@@ -34,7 +34,7 @@ Please feel free to contact me if you have any questions with this repo:)
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) |  | |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](0020-Valid-Parentheses/leetcode20.py)| |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) | | |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) |[python](0021-Merge-Two-Sorted-Lists/leetcode21.py)| | |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) |  |  |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] |  | |
