@@ -25,8 +25,8 @@ Please feel free to contact me if you have any questions with this repo:)
 | 009 | [palindrome-number](https://leetcode.com/problems/reverse-integer/palindrome-number/) |  [无] | [python](0009-palindrome-number/leetcode9.py) | |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [solution](https://leetcode.com/problems/regular-expression-matching/solution/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [solution](https://leetcode.com/problems/container-with-most-water/solution/) | | |
-| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] |  [python](00012-Integer-to-Roman/leetcode12.py)| |
-| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [python](00012-Roman-to-Integer/leetcode13.py)| |
+| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] |  [python](0012-Integer-to-Roman/leetcode12.py)| |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [python](0013-Roman-to-Integer/leetcode13.py)| |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | | |
