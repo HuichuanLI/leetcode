@@ -15,32 +15,32 @@ Please feel free to contact me if you have any questions with this repo:)
 
 | ID | Problem | Official<br/>Solution | Python | Java |
 | --- | --- | :---: | :--- | :--- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) | [python](0001-Two-Sum/leetcode1.py)| |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [solution](https://leetcode.com/problems/two-sum/solution/) | [python](leetcode/0001-Two-Sum/leetcode1.py)| |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [solution](https://leetcode.com/problems/add-two-numbers/solution/) | | |
 | 003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [solution](https://leetcode.com/problems/longest-substring-without-repeating-characters/solution/) |  | |
 | 004 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [solution](https://leetcode.com/problems/median-of-two-sorted-arrays/solution/) | | |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [solution](https://leetcode.com/problems/longest-palindromic-substring/solution/) | | |
 | | | | | | |
-| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [python](0007-Reverse-Integer/leetcode7.py) | |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [solution](https://leetcode.com/problems/reverse-integer/solution/) | [python](leetcode/0007-Reverse-Integer/leetcode7.py) | |
 | 009 | [palindrome-number](https://leetcode.com/problems/reverse-integer/palindrome-number/) |  [无] | [python](0009-palindrome-number/leetcode9.py) | |
 | 010 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [solution](https://leetcode.com/problems/regular-expression-matching/solution/) | | |
 | 011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [solution](https://leetcode.com/problems/container-with-most-water/solution/) | | |
-| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] |  [python](0012-Integer-to-Roman/leetcode12.py)| |
-| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [python](0013-Roman-to-Integer/leetcode13.py)| |
+| 012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [无] |  [python](leetcode/0012-Integer-to-Roman/leetcode12.py)| |
+| 013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [无] | [python](leetcode/0013-Roman-to-Integer/leetcode13.py)| |
 | 014 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [无] | | |
 | 015 | [3Sum](https://leetcode.com/problems/3sum/description/) | [无] | | |
 | 016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [无] | | |
 | 017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [solution](https://leetcode.com/problems/letter-combinations-of-a-phone-number/solution/) |  | |
 | 018 | [4Sum](https://leetcode.com/problems/4sum/description/) | [无] | | |
 | 019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [solution](https://leetcode.com/problems/remove-nth-node-from-end-of-list/solution/) |  | |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](0020-Valid-Parentheses/leetcode20.py)| |
-| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) |[python](0021-Merge-Two-Sorted-Lists/leetcode21.py)| | |
+| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [solution](https://leetcode.com/problems/valid-parentheses/solution/) |  [python](leetcode/0020-Valid-Parentheses/leetcode20.py)| |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-two-sorted-lists/solution/) |[python](leetcode/0021-Merge-Two-Sorted-Lists/leetcode21.py)| | |
 | 022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [solution](https://leetcode.com/problems/generate-parentheses/solution/) |  |  |
 | 023 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [solution](https://leetcode.com/problems/merge-k-sorted-lists/solution/) | | |
 | 024 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [无] |  | |
 | 025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [无] | | |
-| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | | |
-| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | | |
+| 026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [solution](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solution/) | [python](leetcode/0026-Remove-Duplicates-from-Sorted-Array/leetcode26.py)| |
+| 027 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [solution](https://leetcode.com/problems/remove-element/solution/) | [python](leetcode/0027-Remove-Element/leetcode27.py)| |
 | 028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/description/) | [无]<br/>   | |
 | | | | | | |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [solution](https://leetcode.com/problems/search-in-rotated-sorted-array/solution/) | | |
